@@ -1,5 +1,5 @@
 module SPMinterpolation
 
 export SPMinter
-include("SPMinterpolation.jl")
+include("SPMmain.jl")
 end # module
