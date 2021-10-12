@@ -1,0 +1,4 @@
+name = "SPMinterpolation"
+uuid = "4c422ab7-44ad-4236-9402-f7af2e096e36"
+authors = ["kjy <kangjiayin@mail.nankai.edu.cn>"]
+version = "0.1.0"
